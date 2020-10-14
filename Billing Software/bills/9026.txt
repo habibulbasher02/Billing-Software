@@ -1,0 +1,19 @@
+	Welcome webcode Reatil
+
+ Bill Number  : 9026
+Customer Name : Md. Habibul Basher
+Phone Number  :  0215
+======================================
+Products		QTY		Price
+======================================
+ Bath Soap		1		40.5
+ Loshan		2		40.5
+ Wheat		1		240
+ Red Bull		3		240
+--------------------------------------
+ Cosmetic Tax				Tk. 60
+ Cosmetic Tax				Tk. 36
+ Cosmetic Tax				Tk. 36
+--------------------------------------
+ Total Bill : 			       Tk. 1012.5
+--------------------------------------

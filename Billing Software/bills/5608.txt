@@ -1,0 +1,15 @@
+	Welcome webcode Reatil
+
+ Bill Number  : 5608
+Customer Name : sajul
+Phone Number  :  0215
+======================================
+Products		QTY		Price
+======================================
+--------------------------------------
+ Cosmetic Tax				Tk. 0
+ Cosmetic Tax				Tk. 0
+ Cosmetic Tax				Tk. 0
+--------------------------------------
+ Total Bill : 			       Tk. 0.0
+--------------------------------------
